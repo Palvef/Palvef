@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi there!
 
-<!--
-**Palvef/Palvef** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Palvef&theme=transparent)
 
-Here are some ideas to get you started:
+<a href="https://github.com/Palvef">
+  <img align="center" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?theme=radical&username=Palvef&show_icons=true&include_all_commits=true" />
+</a>
+<a href="https://github.com/Palvef">
+  <img align="center" alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?theme=radical&username=Palvef&layout=compact" />
+</a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Personal
+* [github.com/Palvef](https://github.com/Palve): Here
+* [palve.moe](https://palve.moe): Personal site
+* [blog.palve.moe](https://blog.palve.moe): My blog
